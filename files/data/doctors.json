@@ -1,0 +1,73 @@
+{
+   "doctors": [
+      {
+         "id": 1,
+         "isActive": true,
+         "name": "Mark Hill",
+         "position": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+         "media": {
+            "avatar": "img/certificates/avatars/ava01.jpg",
+            "main": "img/certificates/portraits/01.png",
+            "gallery": {
+               "small": ["img/certificates/portfolios/05.jpg", "img/certificates/portfolios/06.jpg", "img/certificates/portfolios/07.jpg", "img/certificates/portfolios/08.jpg"],
+               "big": ["img/certificates/portfolios/05.jpg", "img/certificates/portfolios/06.jpg", "img/certificates/portfolios/07.jpg", "img/certificates/portfolios/08.jpg"]
+            }
+         },
+         "skills": {
+            "liposuction": 80,
+            "breast augmentation": 90
+         },
+         "stat": {
+            "staff": 23,
+            "doctors": 56,
+            "visits": 86
+         }
+      },
+      {
+         "id": 2,
+         "isActive": false,
+         "name": "Jane Cullen",
+         "position": "Lorem ipsum dolor sit amet, conse ctetur.",
+         "media": {
+            "avatar": "img/certificates/avatars/ava02.jpg",
+            "main": "img/certificates/portraits/02.png",
+            "gallery": {
+               "small": ["img/certificates/portfolios/01.jpg", "img/certificates/portfolios/02.jpg", "img/certificates/portfolios/03.jpg", "img/certificates/portfolios/04.jpg"],
+               "big": ["img/certificates/portfolios/01.jpg", "img/certificates/portfolios/02.jpg", "img/certificates/portfolios/03.jpg", "img/certificates/portfolios/04.jpg"]
+            }
+         },
+         "skills": {
+            "liposuction": 87,
+            "breast augmentation": 19
+         },
+         "stat": {
+            "staff": 34,
+            "doctors": 48,
+            "visits": 95
+         }
+      },
+      {
+         "id": 3,
+         "isActive": false,
+         "name": "Annah Gaiver",
+         "position": "Lorem ipsum dolor sit amet, conse ctetur.",
+         "media": {
+            "avatar": "img/certificates/avatars/ava03.jpg",
+            "main": "img/certificates/portraits/03.png",
+            "gallery": {
+               "small": ["img/certificates/portfolios/02.jpg", "img/certificates/portfolios/07.jpg", "img/certificates/portfolios/01.jpg", "img/certificates/portfolios/04.jpg"],
+               "big": ["img/certificates/portfolios/02.jpg", "img/certificates/portfolios/07.jpg", "img/certificates/portfolios/01.jpg", "img/certificates/portfolios/04.jpg"]
+            }
+         },
+         "skills": {
+            "liposuction": 10,
+            "breast augmentation": 90
+         },
+         "stat": {
+            "staff": 33,
+            "doctors": 52,
+            "visits": 106
+         }
+      }
+   ]
+}
